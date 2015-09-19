@@ -7,7 +7,7 @@
 default: &default
   adapter: mysql2
   host: localhost
-  database: test
+  database: demo_app
   user: root
   password: root
   pool: 5
